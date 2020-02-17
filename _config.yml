@@ -1,2 +1,8 @@
 title: Patap GitHub
 theme: jekyll-theme-cayman
+
+socials:
+  facebook: "Ky4eryavii.Pon4o" # string, example: Ky4eryavii.Pon4o
+  twitter: "" # string, example: somiibo
+  youtube: "" # string, example: somiibo
+  tumblr: "patap" # string, example: somiibo
