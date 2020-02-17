@@ -3,5 +3,8 @@ layout: default
 ---
 
 # Repository
-Jekyll theme for GitHub Pages, based on Cayman theme
-
+Jekyll cayman theme: [URL]
+Nagios plugins (useful for me)
+Simple PHP file manager
+Telegram X theme
+Conky 
