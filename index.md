@@ -5,10 +5,10 @@ layout: default
 # Repository
 Jekyll cayman theme: [URL]
 
-Nagios plugins (useful for me)
+Nagios plugins (useful for me): [URL]
 
-Simple PHP file manager
+Simple PHP file manager: [URL]
 
-Telegram X theme
+Telegram X theme: [URL]
 
-Conky 
+Conky: [URL] 
