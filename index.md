@@ -3,9 +3,9 @@ layout: default
 ---
 
 <h1>Public pages</h1>
-[Tumblr:](https://patap.org.ua) patap.org.ua
+[Tumblr](https://patap.org.ua) 🐱‍👤
 
-Nagios plugins (useful for me): [URL]
+[Nagios plugins](/my_conf_scr/Naemon/): [URL]
 
 Simple PHP file manager: [URL]
 
