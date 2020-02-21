@@ -3,10 +3,11 @@ layout: default
 ---
 
 <h3>Public pages</h3>
-[Tumblr](https://patap.org.ua/) | [Blog](http://grishchuk.com.ua/)
+[Tumblr](https://patap.org.ua/) | [Tech Blog](http://grishchuk.com.ua/)
 <hr>
+
+<h4>Git Repo</h4>
 [Simple PHP file manager](/simple-file-manager/)
+[Telegram X theme](/TelegramX_theme/)
+<hr>
 
-Telegram X theme: [URL]
-
-Conky: [URL] 
