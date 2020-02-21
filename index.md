@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h1>Public pages</h1>
+<h3>Public pages</h3>
 [Tumblr](https://patap.org.ua) 🐱‍👤
 
 [Nagios plugins](/my_conf_scr/Naemon/): [URL]
