@@ -8,6 +8,6 @@ layout: default
 
 <h4>Git Repo</h4>
 [Simple PHP file manager](/simple-file-manager/)
-[Telegram X theme](/TelegramX_theme/)
+[Telegram tweaks/tools/bot](/Telegram_tweaks)
 <hr>
 
