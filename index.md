@@ -9,5 +9,5 @@ layout: default
 <h4>Git Repo</h4>
 [Simple PHP file manager](/simple-file-manager/)
 
-[Telegram tweaks/tools/bot](/Telegram-tweaks/)
+[Telegram tweaks/tools/bot](telegram-tweaks/Greeny_Gray.tgx-theme)
 
