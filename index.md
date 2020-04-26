@@ -9,6 +9,6 @@ layout: default
 <h3> Repository </h3>
 
 <h4>Git Repo</h4>
-[Simple PHP file manager](/simple-file-manager/)
+[Simple PHP file manager](/simple-file-manager/)</br>
 [Telegram tweaks/tools/bot](/Telegram-tweaks/)
 
