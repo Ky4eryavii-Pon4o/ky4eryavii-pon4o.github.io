@@ -3,8 +3,8 @@ layout: listings
 colorspace: purple
 listings:
   Featured:
-    React Dev Tools:
-      link: '#example'
+    Tool_1:
+      link: '/Telegram'
       icon: /assets/images/candies.png
 published: true
 ---
