@@ -2,7 +2,7 @@
 layout: listings
 colorspace: purple
 listings:
-  "Featured":
+  'Featured':
     React Dev Tools:
       link: '#example'
       icon: /assets/images/candies.png
