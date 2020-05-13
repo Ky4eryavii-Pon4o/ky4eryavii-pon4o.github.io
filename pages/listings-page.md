@@ -1,14 +1,13 @@
 ---
 layout: listings
-colorspace: purple
+colorspace: green
 listings:
-  Featured:
-    Tool_1:
-      link: '/Telegram'
+  One:
+    React Dev Tools:
+      link: '#example'
+      icon: /assets/images/candies.png
+    Slack:
+      link: '#example'
       icon: /assets/images/candies.png
 published: true
 ---
-
-Below you will find an example of the structure of a listings page with some filler content that goes nowhere.
-
-[Documentation](../docs/listings-pages){: .button}
