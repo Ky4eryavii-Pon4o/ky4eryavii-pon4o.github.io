@@ -1,9 +1,10 @@
-title:                      "Ky4eryavii_Pon4o GitHub"
-description:        "👾/🙃/🎮"
+title: "Ky4eryavii_Pon4o GitHub"
+description: "👾/🙃/🎮"
 remote_theme: "dracula/gh-pages"
-show_header:     false
+show_header: false
 #icon: 
-colorspace:          green
+colorspace: green
+baseurl: /
 
 socials:
   facebook: "Ky4eryavii.Pon4o" # string, example: Ky4eryavii.Pon4o
