@@ -28,3 +28,9 @@ jobs:
     # Runs a single command using the runners shell
     - name: Send greeting
       run: echo "Hello ${{ github.event.inputs.name }}"
+    
+    - name: jekyll-deploy
+      uses: DavidS/jekyll-deploy@1.1.1
+  with:
+    # Set to "true" to only build, but not deploy. This is useful for PR testing
+    build-only: # optional, default is false
