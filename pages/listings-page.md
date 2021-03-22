@@ -4,10 +4,10 @@ colorspace: green
 listings:
   One:
     React Dev Tools:
-      link: '#example'
-      icon: /assets/images/candies.png
+      link: "#example"
+      icon: "/assets/images/candies.png"
     Slack:
-      link: '#example'
-      icon: /assets/images/candies.png
-published: true
+      link: "#example"
+      icon: "/assets/images/candies.png"
 ---
+

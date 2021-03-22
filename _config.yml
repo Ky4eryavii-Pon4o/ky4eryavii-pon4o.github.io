@@ -1,13 +1,20 @@
-title: "Ky4eryavii_Pon4o GitHub"
-description: "👾/🙃/🎮"
-remote_theme: "dracula/gh-pages"
+---
+title: Ky4eryavii_Pon4o GitHub
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+description: "\U0001F47E/\U0001F643/\U0001F3AE"
+remote_theme: dracula/gh-pages
 show_header: false
-#icon: 
 colorspace: green
-baseurl: /
-
+baseurl: "/"
 socials:
-  facebook: "Ky4eryavii.Pon4o" # string, example: Ky4eryavii.Pon4o
-  twitter: "" # string, example: somiibo
-  youtube: "" # string, example: somiibo
-  tumblr: "patap" # string, example: somiibo
+  facebook: Ky4eryavii.Pon4o
+  twitter: ''
+  youtube: ''
+  tumblr: patap
