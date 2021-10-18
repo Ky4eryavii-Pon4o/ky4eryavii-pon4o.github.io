@@ -1,0 +1,39 @@
+name: Jekyll site CI
+
+on:
+  push:
+    branches:
+      # Only build on the website-v2 branch
+      - gh-pages
+
+jobs:
+  build:
+    name: Build site
+    
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        ref: gh-pages
+   
+    # Used to setup NodeJS
+    - name: Setup NodeJS
+      uses: actions/setup-node@v1
+      with:
+        node-version: 10.x
+    - name: Setup Ruby
+      uses: actions/setup-ruby@v1
+      with:
+        ruby-version: '2.6'
+    - name: Install dependencies
+      run: npm ci
+    - name: Build and deploy site
+      uses: EdricChan03/action-build-deploy-ghpages@v2
+      with:
+        github_token: ${{ github.token }}
+        gh_pages_branch: master
+        git_force: 'false'
+        override_gh_pages_branch: 'true'
+        show_bundle_log: 'true'
+        bundler_version: '2.1.4'
