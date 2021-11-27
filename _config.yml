@@ -1,6 +1,6 @@
 ---
 title: Ky4eryavii_Pon4o GitHub
-logo: "/assets/favicon.png"
+# logo: "/assets/favicon.png"
 timezone: UTC
 collections:
   posts:
@@ -14,6 +14,10 @@ remote_theme: dracula/gh-pages
 show_header: false
 colorspace: green
 baseurl: "/"
+ 
+​plugins​: 
+ ​ - ​jekyll-seo-tag
+
 socials:
   facebook: Ky4eryavii.Pon4o
   twitter: ''
