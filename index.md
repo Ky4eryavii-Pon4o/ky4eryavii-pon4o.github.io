@@ -10,18 +10,19 @@ layout: default
 * * *
 
 
-### The Bassdrive Archives
+#### ETC
+
+[<i class="fa fa-book fa-lg" aria-hidden="true"></i> Manuals ](https://it.patap.org.ua/)
+
 
 ![BassDrive](https://www.bassdrive.com/images/logo.png)
 
 🎧 http://archives.bassdrivearchive.com/
 
 * * *
-	
+
 #### Git Repo
 
 [Simple PHP file manager](/simple-file-manager/)
 
 [Telegram tweaks/tools/bot](/Telegram-tweaks/)
-
-
