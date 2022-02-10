@@ -11,11 +11,11 @@ collections:
     output: true
 description: "\U0001F47E/\U0001F643/\U0001F3AE"
 remote_theme: dracula/gh-pages
-show_header: false
+show_header: true
 colorspace: green
 baseurl: "/"
- 
-​plugins​: 
+
+​plugins​:
  ​ - ​jekyll-seo-tag
 
 socials:
